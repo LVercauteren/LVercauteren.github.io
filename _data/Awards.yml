@@ -3,17 +3,17 @@ listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
   - title: Prince2 Foundation
-    description: 
+    description: test
     date: 2019
   - title: Collibra Expert: Level II
-    description: Collibra Expert: Level II
+    description: test
     date: 2019
   - title: Collibra Expert: Level I
-    description: won the best Inspirational Youth Awards
+    description: test
     date: 2019
   - title: Certified Associate in Project Management (CAPM)
-    description: won the best Inspirational Youth Awards
+    description: test
     date: 2018
   - title: Microsoft Certified: .NET Framework 4, Windows Applications
-    description:
+    description: test
     date: 2015
