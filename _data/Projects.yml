@@ -2,20 +2,38 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "2019 - 2026| Flemish Government (Digitaal Vlaanderen) - Product manager"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Supporting (and later on managing) the OSLO interoperability programme
+      - Managing data standards lifecycle: development, maintenance, implementation and adoption
+      - Defining the strategy and long-term future vision
+      - Responsible for drafting budgets, business cases and multi-year planning
+      - Aligning business, policy and technical stakeholders
+  - title: "2022 - 2024 | Flemish Government (Digitaal Vlaanderen) - Project lead"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Led project creating a business case for centralized cycling infrastructure data
+      - Coordinated analysis across multiple stakeholders
+  - title: "2022 - 2024 | Flemish Government (DCJM) - Project lead" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Led governance study on maintenance, implementation and adoption of data standards
+  - title: "2022 | Flemish Government (Vlaamse Landmaatschappij) - Project lead" 
+    description: 
+      - Conducted requirements analysis for future data warehouse
+      - Reviewed documentation in preparation of data strategy
+  - title: "2021 | Flemish Government (Vlaamse Landmaatschappij) - Project lead" 
+    description: 
+      - Tasked to review their documentation to prepare the VLM data strategy.
+  - title: "2021 | Yara International R&D - Project lead" 
+    description: 
+      - Performed data capture maturity assessment
+      - Evaluated data lifecycle management capabilities
+  - title: "2016-2019 | Johnson & Johnson - Business analyst / Project management" 
+    description: 
+      - Led document migration from SharePoint to validated GxP systems
+      - Created dashboards and reports to support decision-making
+  - title: "2016-2018 | MSD - Migration specialist" 
+    description: 
+      - Executed ETL-based data migrations to Veeva Vault RIM
+  - title: "2014 - 2016 | Flemish Government - .NET developer" 
+    description: 
+      - Analysed, developed and tested complex mathematical models using C#
