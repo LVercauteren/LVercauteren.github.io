@@ -2,18 +2,12 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: Prince2 Foundation
+  - title: IEEEE Fellow
     description: Association for Natural Language Processing
-    date: 2019
-  - title: Collibra Expert: Level II
-    description: Association for Natural Language Processing
-    date: 2019
-  - title: Collibra Expert: Level I
-    description: Association for Natural Language Processing
-    date: 2019
-  - title: Certified Associate in Project Management (CAPM)
-    description: Association for Natural Language Processing
-    date: 2018
-  - title: Microsoft Certified: .NET Framework 4, Windows Applications
-    description: Association for Natural Language Processing
-    date: 2015
+    date: Feb. 2024
+  - title: Gogle CodeJam
+    description: 3rd place in Gogle CodeJam
+    date: Jul. 2013
+  - title: Millennium Hackaton
+    description: won the best Inspirational Youth Awards
+    date: Oct. 2010
