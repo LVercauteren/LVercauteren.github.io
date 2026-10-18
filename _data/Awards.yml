@@ -3,12 +3,17 @@ listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
   - title: Prince2 Foundation
+    description: Association for Natural Language Processing
     date: 2019
   - title: Collibra Expert: Level II
+    description: Association for Natural Language Processing
     date: 2019
   - title: Collibra Expert: Level I
+    description: Association for Natural Language Processing
     date: 2019
   - title: Certified Associate in Project Management (CAPM)
+    description: Association for Natural Language Processing
     date: 2018
   - title: Microsoft Certified: .NET Framework 4, Windows Applications
+    description: Association for Natural Language Processing
     date: 2015
