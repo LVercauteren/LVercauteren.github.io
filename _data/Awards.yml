@@ -2,12 +2,18 @@ subject: Certificates
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
+  - title: Prince2 Foundation
+    description: 
     date: 2019
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
+  - title: Collibra Expert: Level II
+    description: Collibra Expert: Level II
     date: 2019
-  - title: Millennium Hackaton
+  - title: Collibra Expert: Level I
     description: won the best Inspirational Youth Awards
     date: 2019
+  - title: Certified Associate in Project Management (CAPM)
+    description: won the best Inspirational Youth Awards
+    date: 2018
+  - title: Microsoft Certified: .NET Framework 4, Windows Applications
+    description:
+    date: 2015
