@@ -4,22 +4,16 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-      ![devicon](https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-plain.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original-wordmark.svg)
+      C#, C, C++, Java, JavaScript, VBA (Excel Macros)
     "
   - title: Markup
     description: 
-      - Test
-      - Test
+      HTML, XML, JSON
   - title: Modelling
     description: "
-
+      BPMN, UML, Data modelling
     "
   - title: Visualisation
     description: "
-
+      Power BI, Tableau
     "
